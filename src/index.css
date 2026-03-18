@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #4fa1d8;
+  --color-brand-dark: #1a202c;
+  --color-brand-gray: #718096;
+}
+
+body {
+  background: radial-gradient(circle at center, #f0f7ff 0%, #e2efff 100%);
+  min-height: 100vh;
+}
