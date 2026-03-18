@@ -1,6 +1,7 @@
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
+ * Updated: 2026-03-18 - Fixed button mailto and typo.
  */
 
 import { motion } from "motion/react";
